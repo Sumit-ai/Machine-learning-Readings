@@ -9,7 +9,7 @@
 ## Books
 I am following these books:
 - **[Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)**
-- **Deep Learning with python**
+- **[Deep Learning with python by François Chollet](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)**
 
 ### Video leactures (papers):
 ## Courses:
