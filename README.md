@@ -7,8 +7,8 @@
 3. [The Net Reclassification Index (NRI): a Misleading Measure of Prediction Improvement Even with Independent Test Data Sets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615606/)
 
 ## Books
-I am following these books for my learning:
-- **Deep Learning**
+I am following these books:
+- **[Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org)**
 - **Deep Learning with python**
 
 ### Video leactures (papers):
