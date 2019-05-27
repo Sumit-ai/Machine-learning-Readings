@@ -8,8 +8,8 @@
 
 ## Books
 I am following these books for my learning:
--**Deep Learning**
--**Deep Learning with python**
+- **Deep Learning**
+- **Deep Learning with python**
 
 ### Video leactures (papers):
 ## Courses:
