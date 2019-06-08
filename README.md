@@ -19,3 +19,4 @@ I am following these books:
 # Other Readings
 - **[Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks?fbclid=IwAR3ESofdMy5PTF7bnxY3KWlfKYnL5mUW4Pjn9uJplseqe7delGytN1xcPas)**
 - **[Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks?fbclid=IwAR0XjV49cAs0MdX-kz_iR4nxHFZMXDe9eSzq6muFJdL5jesHKSAcu0Fssc8)**
+- **[Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR3qCAYfcCOxyOcR6cxAAuJBk5Wj6Dw-WUzFelI2GxSLIDWkE2XUHo2GSkE)**
