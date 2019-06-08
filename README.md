@@ -14,4 +14,5 @@ I am following these books:
 
 ### Video leactures (papers):
 ## Courses:
+- **[Hinton's Course Lectures](https://www.cs.toronto.edu/~hinton/coursera_lectures.html?fbclid=IwAR1hDa1xHTljNKzsLDjpFJ8F20dWCQKwdoj-21FiIKZ1Nnncn-SzbK-EU44)**
 # Oximeter Reading
